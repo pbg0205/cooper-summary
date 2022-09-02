@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cooper.practice.stream_api.AnyMatchPractice" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-02T23:45:13" hostname="rsupportui-MacBookPro-3.local" time="0.028">
+  <properties/>
+  <testcase name="anyMatch 는 요소를 포함하지 않으면 false 를 반환한다" classname="com.cooper.practice.stream_api.AnyMatchPractice" time="0.025"/>
+  <testcase name="anyMatch 는 요소를 포함하면 true 를 반환한다" classname="com.cooper.practice.stream_api.AnyMatchPractice" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
